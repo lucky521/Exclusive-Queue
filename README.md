@@ -21,6 +21,9 @@
 队列为满的时候，应该如何处理，是抛弃旧结点还是阻塞生产者？
 
 
+...To be continued
+
+
 
 [1]:https://github.com/lucky521/C-Thread-Pool
 [2]:http://blog.csdn.net/ojshilu/article/details/24596133
